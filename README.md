@@ -1,9 +1,9 @@
-### Hi there 👋, my name is Raisul Islam
-#### I am Full Stack Developer
+Hi there 👋, my name is Raisul Islam......
 
-Dedicated full-stack developer skilled in JavaScript and Python
+I am Full Stack Developer
+Dedicated full-stack developer skilled in JavaScript and Python.....
 
-Skills: REACT / REACT-NATIVE / EXPRESS/NODE/PYTHON/DJANGO/ELECTRO.JS / HTML / CSS/JS
+portfolio: https://raisulislam-5ec01.web.app/
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raisulislampiaus&layout=compact)
 
