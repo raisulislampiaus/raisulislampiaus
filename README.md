@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Raisul Islam</h1>
 <h3 align="center">Full Stack Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raisulislampiaus&label=Profile%20views&color=0e75b6&style=flat" alt="raisulislampiaus" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raisulislampiaus" alt="raisulislampiaus" /></a> </p>
+
+- 👨‍💻 All of my projects are available at [https://raisulislam714.vercel.app/](https://raisulislam714.vercel.app/)
+
+- 📫 How to reach me **raisulislam714@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/raisulislampiaus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/raisulislampiaus" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/raisulislampiaus/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raisulislampiaus/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/raisulislampiaus/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/raisulislampiaus/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/raisulislampiaus/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/raisulislampiaus/" height="30" width="40" /></a>
